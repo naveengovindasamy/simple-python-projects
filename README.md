@@ -1,3 +1,2 @@
-#simple calculator code
+basic python project codes
 
-in this program choices will be given to the user,(which operation to perform)
