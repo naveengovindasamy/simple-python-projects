@@ -1,2 +1,2 @@
-basic python project codes
+basic python projects
 
